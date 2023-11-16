@@ -1,0 +1,195 @@
+
+
+.rostpic, .header, .Ins, .huvud, .rublik, .dis, .black, .steg1, .steg2, .steg3, .steg4, .res,
+.pic1, .pic2, .pic3, .pic4, .ett, .två, .tre, .fyra {
+    position: absolute;
+}
+.rublik{
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+.rostpic {
+    top: 33px;
+    left: 384px;
+    width: 975px;
+    height: 469px;
+    border-radius: 24px;
+}
+
+.header {
+    top: 33px;
+    left: 35px;
+    width: 224px;
+    height: 127px;
+    position: absolute;
+    border: 8px solid rgba(255, 0, 0, 1);
+    border-radius: 47px;
+}
+
+.Ins {
+    top: 194px;
+    left: 35px;
+    width: 327px;
+    height: 308px;
+    position: absolute;
+    border: 4px solid rgba(0, 0, 0, 1);
+    border-radius: 23px;
+}
+.ins, .text{
+    padding-left: 10px;
+}
+.inspic1{
+    top: 53px;
+    left: 194px;
+    width: 102px;
+    height: 102px;
+    position: absolute;
+}
+.inspic2{
+    top: 169px;
+    left: 206px;
+    width: 102px;
+    height: 100px;
+    position: absolute;
+}
+.inspic3{
+    top: 164px;
+    left:  1px;
+    width: 217px;
+    height: 129px;
+    position: absolute;
+}
+.huvud {
+    top: 348px;
+    left: 407px;
+    color: white;
+    font-family: Inter;
+    padding-left: 10px;
+}
+.dis {
+    top: 389px;
+    left: 407px;
+    color: rgba(255, 255, 255, 1);
+    width: 463px;
+    position: absolute;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+}
+
+.black {
+    top: 344px;
+    left: 384px;
+    width: 975px;
+    height: 158px;
+    position: absolute;
+    border-radius: 0 0 24px 24px;
+    opacity: 0.6;
+}
+
+.steg1, .steg2, .steg3, .steg4, .res {
+    width: 762px;
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 27px;
+}
+
+.steg1 {
+    top: 535px;
+    left: 35px;
+    height: 49px;
+}
+
+.steg2 {
+    top: 597px;
+    left: 35px;
+    height: 100px;
+}
+
+.steg3 {
+    top: 706px;
+    left: 35px;
+    height: 109px;
+}
+
+.steg4 {
+    top: 824px;
+    left: 35px;
+    height: 49px;
+}
+
+.res {
+    top: 881px;
+    left: 34px;
+    width: 164px;
+    height: 84px;
+}
+
+.pic1 {
+    top: 535px;
+    left: 839px;
+    width: 230px;
+    height: 197px;
+}
+
+.pic2 {
+    top: 535px;
+    left: 1088px;
+    width: 329px;
+    height: 197px;
+}
+
+.pic3 {
+    top: 761px;
+    left: 816px;
+    width: 253px;
+    height: 237px;
+}
+
+.pic4 {
+    top: 765px;
+    left: 1103px;
+    width: 316px;
+    height: 248px;
+}
+
+.ett, .två, .tre, .fyra {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    text-align: center;
+}
+
+.ett {
+    top: 514px;
+    left: 816px;
+}
+
+.två {
+    top: 523px;
+    left: 1068px;
+}
+
+.tre {
+    top: 739px;
+    left: 800px;
+}
+
+.fyra {
+    top: 745px;
+    left: 1078px;
+}
+p{
+    padding-left: 10px;
+}
+.fär{
+    padding-left: 10px;
+}
